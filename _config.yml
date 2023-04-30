@@ -18,12 +18,12 @@ author-image: 279.png  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Bitcoin
-  permalink: bitcoin
-- text: Blog
-  permalink: blog
+- text: Experience
+  permalink: experience
+- text: Education
+  permalink: education
+- text: Portfolio
+  permalink: portfolio
 
 # use false to turn off any social media links
 twitter: false
