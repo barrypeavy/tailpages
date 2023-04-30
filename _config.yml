@@ -3,15 +3,15 @@ baseurl: "/tailpages" # the name of your github repo
 url: "https://barrypeavy.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "Barry Peavy: Web UI/UX Designer &amp; Front End Developer"
+description: Resume and portfolio site for Barry Peavy
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Barry Peavy
-author-bio: Web UI/UX Designer  # change to false to hide
+author-bio: Web UI/UX Designer &amp; Front End Developer  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
