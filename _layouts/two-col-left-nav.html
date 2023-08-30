@@ -14,6 +14,12 @@ layout: default
         <p>skills list here </p>    
       {% endif %}
 
+      {% if page.permalink = {{link.skills}} %} <!-- don't show current page in menu -->
+        <p>skills list here </p>    
+      {% endif %}
+
+      TEST
+
     </div>
     <div class="col-span-9">
       {{content}}
