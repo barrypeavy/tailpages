@@ -4,19 +4,14 @@ title: Skills
 permalink: skills
 ---
 
-> Satoshi Nakamoto is the name used by the presumed pseudonymous person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation. - Wikipedia
+> Listing of skills with details about experience level
 
 ## Profile Image
 
-The following profile image is my first NFT avatar.
 <img class="mx-auto w-1/2" src="{{site.baseurl}}/assets/img/barrypeavy-memoji-03.png">
 
 ## References
 
-I copied some references from [wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) to show some markdown examples:
+Lorem ipsum dolor sit amet consectetur adipiscing elit, curabitur habitant porttitor potenti venenatis nisl, nunc convallis faucibus posuere augue nisi. Nibh posuere ultrices vehicula potenti eu sem euismod parturient, non fringilla nunc imperdiet tellus laoreet justo, faucibus tortor porttitor senectus curae egestas accumsan. Placerat convallis feugiat tristique iaculis purus fames quis commodo porttitor tortor dictum, ad integer aliquet proin turpis laoreet maecenas ac imperdiet per.
 
- - "The misidentification of Satoshi Nakamoto". theweek.com. 30 June 2015. Retrieved 22 July 2019.
- Kharif, Olga (23 April 2019). "John McAfee Vows to Unmask Crypto's Satoshi Nakamoto, Then Backs Off". Bloomberg.
- - "Who Is Satoshi Nakamoto, Inventor of Bitcoin? It Doesn't Matter". Fortune. Retrieved 22 July 2019.
- - Bearman, Sophie (27 October 2017). "Bitcoin's creator may be worth $6 billion — but people still don't know who it is". CNBC. Retrieved 22 July 2019.
- S., L. (2 November 2015). "Who is Satoshi Nakamoto?". The Economist explains. The Economist. Archived from the original on 21 August 2016. Retrieved 3 November 2015.
+Turpis aliquet imperdiet habitant maecenas a rhoncus proin nibh, non nascetur tellus mattis sodales integer felis, quisque neque ante rutrum hendrerit ornare condimentum. Facilisis cum nullam sociis euismod sodales torquent dis primis cubilia, tellus praesent augue lacinia venenatis fusce molestie eros, class nostra pharetra natoque donec rhoncus himenaeos cursus. Taciti sagittis morbi at gravida porta cursus et, netus sodales lectus hendrerit torquent ligula mauris quam, cras sed lacinia orci varius congue.
