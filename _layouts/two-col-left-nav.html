@@ -10,11 +10,11 @@ layout: default
     <div class="col-span-3">
       <h1 class="mb-6">{{ page.title }}</h1>
 
-      {% if .permalink.skills %} <!--  -->
+      {% if page.permalink == {{link.skills}} %} <!--  -->
         {% include skills-list.html %}    
       {% endif %}
 
-      {% if .permalink.education %} <!--  -->
+      {% if page.permalink == {{link.education}} %} <!--  -->
         {% include education-list.html %}     
       {% endif %}
 
