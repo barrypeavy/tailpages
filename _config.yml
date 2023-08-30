@@ -19,7 +19,9 @@ show-nav-menu: true
 
 nav-menu:
 - text: About
-  permalink: 
+  permalink: about
+- text: Skills
+  permalink: skills
 - text: Experience
   permalink: experience
 - text: Education
