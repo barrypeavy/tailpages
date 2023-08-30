@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: two-col-left-nav
 title: Education
 permalink: education
 ---
