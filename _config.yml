@@ -3,7 +3,7 @@ baseurl: "/tailpages" # the name of your github repo
 url: "https://barrypeavy.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Barry Peavy: Web UI/UX Designer &amp; Front End Developer"
+title: "Barry Peavy: Web Designer | UI/UX Designer | Front End Developer"
 description: Resume and portfolio site for Barry Peavy
 
 # color theme for links
@@ -12,7 +12,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 # homepage information
 author: Barry Peavy
 author-bio: Web Designer | UI/UX Designer | Front End Developer  # change to false to hide
-author-image: 279.png  # file must be in the /assets/img/ folder
+author-image: barrypeavy-memoji-01.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
