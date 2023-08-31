@@ -5,11 +5,25 @@ permalink: skills
 ---
 
 <div class="container w-full md:max-w-4xl mx-auto">
-  <div class="columns-1 border p-4">
-    <div class="grid grid-rows-1 grid-flow-col gap-4">
-      <div class="space-y-2 p-4 bg-white border border-slate-200">01</div>
-      <div class="space-y-2 p-4 bg-white border border-slate-200">02</div>
-      <div class="space-y-2 p-4 bg-white border border-slate-200">03</div>
+  <div class="flex flex-wrap">
+    <div class="w-full sm:w-1/2 md:w-1/3 p-3">
+      <div class="bg-white border shadow p-3">
+        Test
+      </div>
+    </div>
+  </div>
+  <div class="flex flex-wrap">
+    <div class="w-full sm:w-1/2 md:w-1/3 p-3">
+      <div class="bg-white border shadow p-3">
+        Test
+      </div>
+    </div>
+  </div>
+  <div class="flex flex-wrap">
+    <div class="w-full sm:w-1/2 md:w-1/3 p-3">
+      <div class="bg-white border shadow p-3">
+        Test
+      </div>
     </div>
   </div>
 </div>
