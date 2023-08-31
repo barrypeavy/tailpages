@@ -5,7 +5,7 @@ permalink: skills
 ---
 
 <div class="container w-full md:max-w-4xl mx-auto">
-  <img class="object-cover mx-auto mb-5 h-36 w-36 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="Barry Peavy image">
+  <img class="object-cover mx-auto mb-5 h-24 w-24 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="Barry Peavy image">
   <div class="flex flex-wrap text-sm">
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow p-3 h-full ">
