@@ -5,8 +5,8 @@ permalink: skills
 ---
 
 <div class="lg:container lg:mx-auto">
-  <div class="grid grid-cols-12 gap-4">
-    <div class="col-span-3">
+  <div class="grid grid-cols-12 gap-8">
+    <div class="col-span-3 border-e">
       <p class="text-sm text-gray-500 hover:text-gray-900 py-2 lg:py-1 mx-auto uppercase font-semibold">::: Skills</p>
       <p class="text-sm">UI/UX Design</p>
       <p class="text-sm">Web Design</p>
@@ -32,6 +32,7 @@ permalink: skills
       <p class="text-sm">JIRA</p>
       <p class="text-sm">Pivotal Tracker</p>
       <p class="text-sm">Azure DevOps</p>
+      <p class="text-sm">Nunjucks</p>
       <p class="text-sm text-gray-500 hover:text-gray-900 mt-3 py-2 lg:py-1 mx-auto uppercase font-semibold">::: Miscellaneous</p>
       <p class="text-sm">Slack</p>
       <p class="text-sm">MS Word</p>
