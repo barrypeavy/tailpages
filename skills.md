@@ -11,15 +11,11 @@ permalink: skills
         Test
       </div>
     </div>
-  </div>
-  <div class="flex flex-wrap">
     <div class="w-full sm:w-1/2 md:w-1/3 p-3">
       <div class="bg-white border shadow p-3">
         Test
       </div>
     </div>
-  </div>
-  <div class="flex flex-wrap">
     <div class="w-full sm:w-1/2 md:w-1/3 p-3">
       <div class="bg-white border shadow p-3">
         Test
