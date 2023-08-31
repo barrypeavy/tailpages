@@ -4,14 +4,14 @@ title: Skills
 permalink: skills
 ---
 
-<div class="md:container mx-auto">
-<div class="columns-1 border p-4">
-  <div class="grid grid-rows-1 grid-flow-col gap-4">
-    <div>01</div>
-    <div>02</div>
-    <div>03</div>
+<div class="container w-full md:max-w-4xl mx-auto">
+  <div class="columns-1 border p-4">
+    <div class="grid grid-rows-1 grid-flow-col gap-4">
+      <div class="space-y-2 p-4 bg-white border border-slate-200">01</div>
+      <div class="space-y-2 p-4 bg-white border border-slate-200">02</div>
+      <div class="space-y-2 p-4 bg-white border border-slate-200">03</div>
+    </div>
   </div>
-</div>
 </div>
 
 <div class="lg:container lg:mx-auto">
