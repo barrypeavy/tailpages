@@ -4,13 +4,6 @@ title: Skills
 permalink: skills
 ---
 
-
-<div class="grid grid-rows-1 grid-flow-col gap-4 w-50 mx-auto border">
-  <div>01</div>
-  <div>02</div>
-  <div>03</div>
-</div>
-
 <div class="lg:container lg:mx-auto">
   <div class="grid grid-cols-12 gap-8">
     <div class="col-span-3 border-e">
