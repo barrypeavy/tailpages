@@ -21,6 +21,14 @@ permalink: skills
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow-md p-3 h-full">
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Design</p>
+        <div class="flex flex-row items-center mb-3">
+          <div class="flex-shrink pr-4">
+            <i class="fas fa-users fa-2x fa-fw fa-inverse"></i>
+          </div>
+          <div class="flex-1 text-right md:text-center">
+            Figma
+          </div>
+        </div>
         <p>Figma</p>
         <p>Adobe Photoshop</p>
         <p>Adobe Illustrator</p>
