@@ -23,7 +23,7 @@ permalink: skills
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Design</p>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ps.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-fg.svg" alt="Photoshop icon">
           </div>
           <div class="flex-1">
             Figma
@@ -55,7 +55,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ps.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-sk.svg" alt="Photoshop icon">
           </div>
           <div class="flex-1">
             Sketch
