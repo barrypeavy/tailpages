@@ -23,7 +23,7 @@ permalink: skills
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Design</p>
         <div class="flex flex-row items-center mb-3">
           <div class="flex-shrink pr-4">
-            <i class="fas fa-users fa-2x fa-fw fa-inverse"></i>
+            <img class="object-cover mx-auto mb-5 h-24 w-24 rounded-full" src="{{site.baseurl}}/assets/img/icn-ps.svg" alt="Photoshop icon">
           </div>
           <div class="flex-1 text-right md:text-center">
             Figma
