@@ -7,18 +7,18 @@ permalink: skills
 <div class="container w-full md:max-w-4xl mx-auto">
   <div class="flex flex-wrap">
     <div class="w-full sm:w-1/2 md:w-1/3 p-3">
-      <div class="bg-white border shadow p-3">
+      <div class="bg-white border shadow p-3 h-full">
         Test
       </div>
     </div>
     <div class="w-full sm:w-1/2 md:w-1/3 p-3">
-      <div class="bg-white border shadow p-3">
-        Test
+      <div class="bg-white border shadow p-3 h-full">
+        Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test 
       </div>
     </div>
     <div class="w-full sm:w-1/2 md:w-1/3 p-3">
-      <div class="bg-white border shadow p-3">
-        Test
+      <div class="bg-white border shadow p-3 h-full">
+        Test 
       </div>
     </div>
   </div>
