@@ -23,7 +23,7 @@ permalink: skills
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Design</p>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-fg.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-fg.svg" alt="Figma icon">
           </div>
           <div class="flex-1">
             Figma
@@ -39,7 +39,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ai.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ai.svg" alt="Illustrator icon">
           </div>
           <div class="flex-1">
             Adobe Illustrator
@@ -47,7 +47,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-xd.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-xd.svg" alt="XD icon">
           </div>
           <div class="flex-1">
             Adobe XD
@@ -55,7 +55,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-sk.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-sk.svg" alt="Sketch icon">
           </div>
           <div class="flex-1">
             Sketch
@@ -63,7 +63,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-id.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-id.svg" alt="InDesign icon">
           </div>
           <div class="flex-1">
             Adobe InDesign
@@ -71,7 +71,7 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
-            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ps.svg" alt="Photoshop icon">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-cv.svg" alt="Canva icon">
           </div>
           <div class="flex-1">
             Canva
@@ -82,8 +82,23 @@ permalink: skills
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow-md p-3 h-full">
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Development</p>
-        <p>Visual Studio Code</p>
-        <p>Sublime Text</p>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-vs.svg" alt="Visual Studio Code icon">
+          </div>
+          <div class="flex-1">
+            Visual Studio Code
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-st.svg" alt="Sublime Text icon">
+          </div>
+          <div class="flex-1">
+            Sublime Text
+          </div>
+        </div>
+        <p>adsf</p>
         <p>Bootstrap</p>
         <p>TailwindCSS</p>
         <p>Wordpress</p>
