@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: Barry Peavy
-author-bio: Web Designer | UI/UX Designer | Front End Developer  # change to false to hide
+author-bio: Web Designer | UI/UX Designer | Front End Developer | Product Designer  # change to false to hide
 author-image: barrypeavy-memoji-02.png  # file must be in the /assets/img/ folder
 
 # navigation menu
