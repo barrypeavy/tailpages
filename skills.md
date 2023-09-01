@@ -14,6 +14,7 @@ permalink: skills
         <p class="mb-2">Front-End Development</p>
         <p class="mb-2">HTML/CSS/SCSS</p>
         <p class="mb-2">Graphic Design</p>
+        <p class="mb-2">Wordpress Design</p>
         <p>Email Design/Development</p>
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
