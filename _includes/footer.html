@@ -6,20 +6,21 @@
       <div class="w-full border-t border-gray-400"></div>
     </div> -->
     <div class="relative flex justify-center ">
-      <img class="object-cover mx-auto h-24 w-24 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="Barry Peavy image">
+      <img class="object-cover mx-auto h-24 w-24" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="Barry Peavy image">
     </div>
   </div>
 
   <!-- footer msg -->
   <div class="flex flex-wrap items-center justify-center">
-    <div class="text-sm text-gray-400">
+    <p class="text-sm text-gray-400">
+      <a href="mailto:barry.peavy@gmail.com">✉ barry.peavy@gmail.com</a><br />
       © <span id="get-current-year"></span>
       {% if site.footer-msg %}
       <a href="{{site.footer-msg-link}}" class="!no-underline">
         {{site.footer-msg}}
       </a>
       {% endif %}
-    </div>
+    </p>
   </div>
   </div>
 </footer>
