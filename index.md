@@ -13,7 +13,7 @@ permalink: /
         {% if site.author-bio %}
         <p class="text-gray-500 mb-4 text-center">{{site.author-bio}}</p>
         {% endif %}
-        <p class="mb-2">Below are multitudinous bullet points outlining various and sundry duties that I can perform:</p>
+        <p class="mb-2">Below are multitudinous bullet points outlining information about me, as well as sundry duties that I can perform:</p>
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
   </div> <!-- flex -->
