@@ -98,15 +98,70 @@ permalink: skills
             Sublime Text
           </div>
         </div>
-        <p>adsf</p>
-        <p>Bootstrap</p>
-        <p>TailwindCSS</p>
-        <p>Wordpress</p>
-        <p>GitHub</p>
-        <p>JIRA</p>
-        <p>Pivotal Tracker</p>
-        <p>Azure DevOps</p>
-        <p>Nunjucks</p>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-bs.svg" alt="Bootstrap icon">
+          </div>
+          <div class="flex-1">
+            Bootstrap
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-tw.svg" alt="Tailwind CSS icon">
+          </div>
+          <div class="flex-1">
+            TailwindCSS
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-wp.svg" alt="Wordpress icon">
+          </div>
+          <div class="flex-1">
+            Wordpress
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-gh.svg" alt="GitHub icon">
+          </div>
+          <div class="flex-1">
+            GitHub
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-jr.svg" alt="Jira icon">
+          </div>
+          <div class="flex-1">
+            Jira
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-pt.svg" alt="Pivotal Tracker icon">
+          </div>
+          <div class="flex-1">
+            Pivotal Tracker
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-az.svg" alt="Azure DevOps icon">
+          </div>
+          <div class="flex-1">
+            Azure DevOps
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-nj.svg" alt="Nunjucks icon">
+          </div>
+          <div class="flex-1">
+            Nunjucks
+          </div>
+        </div>
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
     <div class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 py-3 px-2">
