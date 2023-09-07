@@ -125,6 +125,14 @@ permalink: skills
         </div>
         <div class="flex flex-row items-start mb-2">
           <div class="flex-shrink pr-2">
+            <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-wx.svg" alt="WIX icon">
+          </div>
+          <div class="flex-1">
+            WIX
+          </div>
+        </div>
+        <div class="flex flex-row items-start mb-2">
+          <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-gh.svg" alt="GitHub icon">
           </div>
           <div class="flex-1">
