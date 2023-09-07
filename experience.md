@@ -10,11 +10,23 @@ permalink: experience
       <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full ">
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg">{{page.title}}</h1>
 
+<div class="flex flex-wrap text-sm">
+  <div class="w-full sm:w-2/5 lg:w-1/5">
+    left
+  </div> <!-- left-col -->
+  <div class="w-full sm:w-3/5 lg:w-4/5">
+    right
+  </div> <!-- right-col -->
+</div> <!-- flex-wrap -->
+
+
+
 <ul class="divide-y divide-gray-200 dark:divide-gray-700">
   <li class="py-12">
     <article>
     <div class="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
-    <p class="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">APR 2023 &ndash; Present</p>
+    <p class="text-base text-gray-500 dark:text-gray-400">APR 2023 &ndash; Present</p>
+    <p><a class="mr-3 text-sm font-semibold text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a></p>
     <div class="space-y-5 xl:col-span-3"><div class="space-y-6"><div>
       <h2 class="text-2xl font-bold leading-8 tracking-tight">Web Designer | Front-End Developer</h2>
       <div class="flex flex-wrap">
