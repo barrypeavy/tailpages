@@ -19,6 +19,14 @@ permalink: experience
         <h2 class="text-xl font-semibold leading-8">Web Designer | Front-End Developer</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>  
   </div>
+  <div class="col-start-1 col-end-3">
+    <p class="text-gray-500 dark:text-gray-400">APR 2023 &ndash; Present</p>
+    <p><a class="font-semibold text-primary-500 hover:text-primary-600 dark:hover:text-primary-400" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a></p>
+  </div>
+  <div class="col-start-4 col-end-10">
+        <h2 class="text-xl font-semibold leading-8">Web Designer | Front-End Developer</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>  
+  </div>
 </div>
 
 
