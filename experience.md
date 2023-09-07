@@ -7,7 +7,7 @@ permalink: experience
 <div class="container w-full md:max-w-4xl mx-auto">
   <div class="flex flex-wrap text-sm">
     <div class="w-full">
-      <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full ">
+      <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full">
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg mb-5">{{page.title}}</h1>
 
 <div class="grid grid-cols-10 gap-4">
