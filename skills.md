@@ -22,7 +22,7 @@ permalink: skills
     <div class="w-full sm:w-1/2 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow-md p-3 h-full">
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Design</p>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-fg.svg" alt="Figma icon">
           </div>
@@ -30,7 +30,7 @@ permalink: skills
             Figma
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ps.svg" alt="Photoshop icon">
           </div>
@@ -38,7 +38,7 @@ permalink: skills
             Adobe Photoshop
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ai.svg" alt="Illustrator icon">
           </div>
@@ -46,7 +46,7 @@ permalink: skills
             Adobe Illustrator
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-xd.svg" alt="XD icon">
           </div>
@@ -54,7 +54,7 @@ permalink: skills
             Adobe XD
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-id.svg" alt="InDesign icon">
           </div>
@@ -62,7 +62,7 @@ permalink: skills
             Adobe InDesign
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-cv.svg" alt="Canva icon">
           </div>
@@ -70,7 +70,7 @@ permalink: skills
             Canva
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-sk.svg" alt="Sketch icon">
           </div>
@@ -83,7 +83,7 @@ permalink: skills
     <div class="w-full sm:w-1/2 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow-md p-3 h-full">
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Development</p>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-vs.svg" alt="Visual Studio Code icon">
           </div>
@@ -91,7 +91,7 @@ permalink: skills
             Visual Studio Code
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-st.svg" alt="Sublime Text icon">
           </div>
@@ -99,7 +99,7 @@ permalink: skills
             Sublime Text
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-bs.svg" alt="Bootstrap icon">
           </div>
@@ -107,7 +107,7 @@ permalink: skills
             Bootstrap
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-tw.svg" alt="Tailwind CSS icon">
           </div>
@@ -115,7 +115,7 @@ permalink: skills
             TailwindCSS
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-wp.svg" alt="Wordpress icon">
           </div>
@@ -123,7 +123,7 @@ permalink: skills
             WordPress
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-wx.svg" alt="WIX icon">
           </div>
@@ -131,7 +131,7 @@ permalink: skills
             WIX
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-gh.svg" alt="GitHub icon">
           </div>
@@ -139,7 +139,7 @@ permalink: skills
             GitHub
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-jr.svg" alt="Jira icon">
           </div>
@@ -147,7 +147,7 @@ permalink: skills
             Jira
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-pt.svg" alt="Pivotal Tracker icon">
           </div>
@@ -155,7 +155,7 @@ permalink: skills
             Pivotal Tracker
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-az.svg" alt="Azure DevOps icon">
           </div>
@@ -163,7 +163,7 @@ permalink: skills
             Azure DevOps
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-nj.svg" alt="Nunjucks icon">
           </div>
@@ -176,7 +176,7 @@ permalink: skills
     <div class="w-full sm:w-1/2 lg:w-1/4 py-3 px-2">
       <div class="bg-white border shadow-md p-3 h-full">
         <p class="text-gray-500 hover:text-gray-900 uppercase font-semibold mb-3">::: Miscellaneous</p>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-sl.svg" alt="Slack icon">
           </div>
@@ -184,7 +184,7 @@ permalink: skills
             Slack
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-wd.svg" alt="MS Word icon">
           </div>
@@ -192,7 +192,7 @@ permalink: skills
             MS Word
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-ex.svg" alt="MS Excel icon">
           </div>
@@ -200,7 +200,7 @@ permalink: skills
             MS Excel
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-zm.svg" alt="Zoom icon">
           </div>
@@ -208,7 +208,7 @@ permalink: skills
             Zoom
           </div>
         </div>
-        <div class="flex flex-row items-start mb-2">
+        <div class="flex flex-row items-center mb-2">
           <div class="flex-shrink pr-2">
             <img class="mx-auto w-5 h-auto" src="{{site.baseurl}}/assets/img/icon-rc.png" alt="RingCentral icon">
           </div>
