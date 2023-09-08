@@ -16,7 +16,8 @@ permalink: skills
         <p class="mb-2">Product Design</p>
         <p class="mb-2">Graphic Design</p>
         <p class="mb-2">WordPress Design</p>
-        <p>Email Design/Development</p>
+        <p class="mb-2">Email Design/Development</p>
+        <p>ARIA/508 Accessibility</p>
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
     <div class="w-full sm:w-1/2 lg:w-1/4 py-3 px-2">
