@@ -70,6 +70,20 @@ permalink: experience
           <p>Developed database-driven web applications, and built basic relational databases. Managed database connectivity to fuse front and back-end portions of web applications.</p>
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
+        <div class="col-start-1 col-end-4 border-e">
+          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 border-b border-dotted border-amber-400">National Information Consortium (NIC) - GeorgiaNet/GTA</p>
+          <p class="text-gray-400 text-sm">JUN 1999 &ndash; SEP 2001</p>
+          <p class="text-gray-400 text-xs">Atlanta, GA</p>
+        </div> <!-- left -->
+        <div class="col-start-4 col-end-12">
+          <h2 class="text-lg font-semibold">Portal Architect / Web Designer</h2>
+          <p>Executed creative design and front-end development of websites - including sites for Gov. Roy Barnes, Georgia Lottery, etc.</p>
+          <p>Interacted with clients (state agencies) to plan/develop web sites, and with State of Georgia marketers/project managers to develop and maintain web sites.</p>
+          <p>Worked in conjunction with programmers to complete back-end development of sites (contact scripts, database connectivity, e-commerce apps, forms submittal, etc.) – informed appropriate State of GA employees of project status.</p>
+          <p>Created initial creative site designs – this phase often also involved logo/identity development as well as the web site design.</p>
+          <p>Executed cut-up/slice and HTML build of sites.</p> 
+          <p>Tested web sites for functionality and 508 accessibility standards.</p>  
+        </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
