@@ -26,7 +26,7 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Web Designer | Front-End Developer</h2>
-          <p>For 10 years with FlexJobs, I have performed web design (Adobe CS, Figma, Sketch) and extensive front-end markup (HTML, CSS, Bootstrap) for the entire website, in an Agile dev environment (using Visual Studio, Jira, Rails, Github, Slack).</p>
+          <p class="mb-1">For 10 years with FlexJobs, I have performed web design (Adobe CS, Figma, Sketch) and extensive front-end markup (HTML, CSS, Bootstrap) for the entire website, in an Agile dev environment (using Visual Studio, Jira, Rails, Github, Slack).</p>
           <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. FlexJobs was acquired by BOLD in early 2023.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
@@ -54,8 +54,8 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Webmaster</h2>
-          <p>Planned, designed, developed, and tested the main CCSS website. Performed all graphic design work, and built all database-driven web pages and applications.</p>
-          <p>Developed and managed style specifications for the CCSS website. Tested for cross-browser/OS compatibility and Section 508 standards compliance.</p>
+          <p class="mb-1">Planned, designed, developed, and tested the main CCSS website. Performed all graphic design work, and built all database-driven web pages and applications.</p>
+          <p class="mb-1">Developed and managed style specifications for the CCSS website. Tested for cross-browser/OS compatibility and Section 508 standards compliance.</p>
           <p>Responsible for the CCSS Employee Intranet, as well as management of 30 individual school websites maintained by school-based technology specialists. Served as the help desk web design resource for these specialists.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
@@ -65,9 +65,9 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Program Manager II - Intranet Webmaster</h2>
-          <p>Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involved organizing thousands of documents used by employees across the Sprint International network.</p>
-          <p>Executed creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
-          <p>Developed database-driven web applications, and built basic relational databases. Managed database connectivity to fuse front and back-end portions of web applications.</p>
+          <p class="mb-1">Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involved organizing thousands of documents used by employees across the Sprint International network.</p>
+          <p class="mb-1">Executed creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
+          <p class="mb-1">Developed database-driven web applications, and built basic relational databases. Managed database connectivity to fuse front and back-end portions of web applications.</p>
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
@@ -77,11 +77,11 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Portal Architect / Web Designer</h2>
-          <p>Executed creative design and front-end development of websites - including sites for Gov. Roy Barnes, Georgia Lottery, etc.</p>
-          <p>Interacted with clients (state agencies) to plan/develop web sites, and with State of Georgia marketers/project managers to develop and maintain web sites.</p>
-          <p>Worked in conjunction with programmers to complete back-end development of sites (contact scripts, database connectivity, e-commerce apps, forms submittal, etc.) – informed appropriate State of GA employees of project status.</p>
-          <p>Created initial creative site designs – this phase often also involved logo/identity development as well as the web site design.</p>
-          <p>Executed cut-up/slice and HTML build of sites.</p> 
+          <p class="mb-1">Executed creative design and front-end development of websites - including sites for Gov. Roy Barnes, Georgia Lottery, etc.</p>
+          <p class="mb-1">Interacted with clients (state agencies) to plan/develop web sites, and with State of Georgia marketers/project managers to develop and maintain web sites.</p>
+          <p class="mb-1">Worked in conjunction with programmers to complete back-end development of sites (contact scripts, database connectivity, e-commerce apps, forms submittal, etc.) – informed appropriate State of GA employees of project status.</p>
+          <p class="mb-1">Created initial creative site designs – this phase often also involved logo/identity development as well as the web site design.</p>
+          <p class="mb-1">Executed cut-up/slice and HTML build of sites.</p> 
           <p>Tested web sites for functionality and 508 accessibility standards.</p>  
         </div> <!-- right -->
       </div> <!-- grid -->
