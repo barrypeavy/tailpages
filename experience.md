@@ -58,6 +58,18 @@ permalink: experience
           <p>Developed and managed style specifications for the CCSS website. Tested for cross-browser/OS compatibility and Section 508 standards compliance.</p>
           <p>Responsible for the CCSS Employee Intranet, as well as management of 30 individual school websites maintained by school-based technology specialists. Served as the help desk web design resource for these specialists.</p>  
         </div> <!-- right -->
+        <div class="col-start-1 col-end-4 border-e">
+          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 border-b border-dotted border-amber-400">Sprint - Service Management Center (SMC)</p>
+          <p class="text-gray-400 text-sm">SEP 2001 &ndash; APR 2003</p>
+          <p class="text-gray-400 text-xs">Atlanta, GA</p>
+        </div> <!-- left -->
+        <div class="col-start-4 col-end-12">
+          <h2 class="text-lg font-semibold">Program Manager II - Intranet Webmaster</h2>
+          <p>Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involves organizing thousands of documents used by employees across the Sprint International network.</p>
+          <p>Served as Portal Architect / Webmaster, executing creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
+          <p>Developed database-driven web applications, and built basic relational databases using Microsoft Access to be utilized with dynamic web applications. Managed database connectivity to fuse front and back-end portions of web applications.</p>
+          <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server administration duties.</p>  
+        </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
