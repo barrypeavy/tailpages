@@ -39,7 +39,7 @@ permalink: experience
           <p>Took design comps, wireframes, charter documents, and UI layouts and translated into website builds, using semantic HTML and CSS. Performed graphic design work and web page/application design, as well as extensive cross-browser testing. Participated in site planning and estimate meetings and interacted with various teams.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2">Self-Employed</p>
+          <p class="text-base font-semibold text-primary-500">Self-Employed</p>
           <p class="text-gray-400 text-sm">JUN 2004 &ndash; FEB 2007</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -48,7 +48,7 @@ permalink: experience
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including AutoTrader.com, VeriSign, BellSouth, Dodge Communications, Jackson Healthcare, and Xceleration. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2">Coweta County Schools</p>
+          <p class="text-base font-semibold text-primary-500">Coweta County Schools</p>
           <p class="text-gray-400 text-sm">APR 2003 &ndash; MAY 2004</p>
           <p class="text-gray-400 text-xs">Newnan, GA</p>
         </div> <!-- left -->
@@ -59,7 +59,7 @@ permalink: experience
           <p>Responsible for the CCSS Employee Intranet, as well as management of 30 individual school websites maintained by school-based technology specialists. Served as the help desk web design resource for these specialists.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2">Sprint - Service Management Center (SMC)</p>
+          <p class="text-base font-semibold text-primary-500 hover:text-amber-600">Sprint - Service Management Center (SMC)</p>
           <p class="text-gray-400 text-sm">SEP 2001 &ndash; APR 2003</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -71,7 +71,7 @@ permalink: experience
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2">National Information Consortium (NIC) - GeorgiaNet/GTA</p>
+          <p class="text-base font-semibold text-primary-500 hover:text-amber-600">National Information Consortium (NIC) - GeorgiaNet/GTA</p>
           <p class="text-gray-400 text-sm">JUN 1999 &ndash; SEP 2001</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
