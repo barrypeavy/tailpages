@@ -65,10 +65,10 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Program Manager II - Intranet Webmaster</h2>
-          <p>Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involves organizing thousands of documents used by employees across the Sprint International network.</p>
-          <p>Served as Portal Architect / Webmaster, executing creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
-          <p>Developed database-driven web applications, and built basic relational databases using Microsoft Access to be utilized with dynamic web applications. Managed database connectivity to fuse front and back-end portions of web applications.</p>
-          <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server administration duties.</p>  
+          <p>Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involved organizing thousands of documents used by employees across the Sprint International network.</p>
+          <p>Executed creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
+          <p>Developed database-driven web applications, and built basic relational databases. Managed database connectivity to fuse front and back-end portions of web applications.</p>
+          <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
