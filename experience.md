@@ -11,7 +11,7 @@ permalink: experience
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg mb-5">{{page.title}}</h1>
       <div class="grid grid-cols-12 gap-x-4 gap-y-8">
         <div class="col-start-1 col-end-4 border-e">
-          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a></p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a></p>
           <p class="text-gray-400 text-sm">APR 2023 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
@@ -20,7 +20,7 @@ permalink: experience
           <p>Responsible for web design, front-end coding (Bootstrap), testing, and maintaining the public-facing website, as well as the logged in client portal. Also perform email design/code and marketing graphics.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">FlexJobs</a> | <a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2" href="https://www.bold.com/" target="_blank">BOLD</a></p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">FlexJobs</a> | <a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.bold.com/" target="_blank">BOLD</a></p>
           <p class="text-gray-400 text-sm">JAN 2013 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
@@ -30,7 +30,7 @@ permalink: experience
           <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. FlexJobs was acquired by BOLD in early 2023.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-300 underline-offset-2" href="https://definition6.com/" target="_blank">Definition6</a></p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://definition6.com/" target="_blank">Definition6</a></p>
           <p class="text-gray-400 text-sm">MAR 2007 &ndash; DEC 2007</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -48,7 +48,7 @@ permalink: experience
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including AutoTrader.com, VeriSign, BellSouth, Dodge Communications, Jackson Healthcare, and Xceleration. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500">Coweta County Schools</p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County Schools</a></p>
           <p class="text-gray-400 text-sm">APR 2003 &ndash; MAY 2004</p>
           <p class="text-gray-400 text-xs">Newnan, GA</p>
         </div> <!-- left -->
@@ -59,7 +59,7 @@ permalink: experience
           <p>Responsible for the CCSS Employee Intranet, as well as management of 30 individual school websites maintained by school-based technology specialists. Served as the help desk web design resource for these specialists.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600">Sprint - Service Management Center (SMC)</p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.t-mobile.com/" target="_blank">Sprint - Service Management Center (SMC)</a></p>
           <p class="text-gray-400 text-sm">SEP 2001 &ndash; APR 2003</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -71,7 +71,7 @@ permalink: experience
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
-          <p class="text-base font-semibold text-primary-500 hover:text-amber-600">National Information Consortium (NIC) - GeorgiaNet/GTA</p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://en.wikipedia.org/wiki/NIC_Inc." target="_blank">National Information Consortium (NIC) - GeorgiaNet/GTA</a></p>
           <p class="text-gray-400 text-sm">JUN 1999 &ndash; SEP 2001</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
