@@ -40,9 +40,9 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-4 border-e">
           <p class="text-base font-semibold text-primary-500">Self-Employed</p>
-          <p class="text-gray-400 text-sm">JUN 2004 &ndash; FEB 2007</p>
+          <p class="text-gray-400 text-sm">JUN 2004 &ndash; DEC 2012</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
-        </div> <!-- left -->
+        </div> <!-- left -->        
         <div class="col-start-4 col-end-12">
           <h2 class="text-lg font-semibold">Web Designer | Front-End Developer</h2>
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including AutoTrader.com, VeriSign, BellSouth, Dodge Communications, Jackson Healthcare, and Xceleration. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p>  
