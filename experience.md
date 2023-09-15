@@ -16,7 +16,7 @@ permalink: experience
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
-          <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer</h2>
+          <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer (short-term contractor)</h2>
           <p>Responsible for web design, front-end coding (Bootstrap), testing, and maintaining the public-facing website, as well as the logged in client portal. Also perform email design/code and marketing graphics.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
