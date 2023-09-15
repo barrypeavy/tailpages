@@ -4,13 +4,17 @@ title: Portfolio
 permalink: portfolio
 ---
 
-<div>
-  {% for post in site.posts %}
-    <div class="py-1">
-      <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title}}</a></h3>
-      <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
-    </div>
-  {% endfor %}
-</div>
-
-
+<div class="container w-full md:max-w-4xl mx-auto">
+  <div class="flex flex-wrap text-sm">
+    <div class="w-full">
+      <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full ">
+      <!-- <img class="object-cover mx-auto h-36 w-36 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="author profile image"> -->
+      <h1 class="uppercase text-center font-semibold text-gray-500 text-lg">{{site.author}}</h1>
+        {% if site.author-bio %}
+        <p class="text-gray-500 mb-4 text-center">{{site.author-bio}}</p>
+        {% endif %}
+        <p class="mb-2">Page under construction. In the meantime, please see this <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://barrypeavy-com.ibrave.host/wp-content/uploads/2022/12/peavy-portfolio-xsmall.pdf" target="_blank">PDF Portfolio File</a></p>
+      </div> <!-- bg-white -->
+    </div> <!-- w-full -->
+  </div> <!-- flex -->
+</div> <!-- container -->
