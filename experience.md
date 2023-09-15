@@ -39,7 +39,7 @@ permalink: experience
           <p>Took design comps, wireframes, charter documents, and UI layouts and translated into website builds, using semantic HTML and CSS. Performed graphic design work and web page/application design, as well as extensive cross-browser testing. Participated in site planning and estimate meetings and interacted with various teams.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="text-base font-semibold text-primary-500 mb-1">Self-Employed</p>
+          <p class="text-base font-semibold text-primary-500">Self-Employed</p>
           <p class="text-gray-400 text-sm font-normal">JUN 2004 &ndash; DEC 2012</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->        
