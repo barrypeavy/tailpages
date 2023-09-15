@@ -13,7 +13,7 @@ permalink: portfolio
         {% if site.author-bio %}
         <p class="text-gray-500 mb-4 text-center">{{site.author-bio}}</p>
         {% endif %}
-        <p class="mb-2">Page under construction. In the meantime, please see this <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://barrypeavy-com.ibrave.host/wp-content/uploads/2022/12/peavy-portfolio-xsmall.pdf" target="_blank">PDF Portfolio File</a></p>
+        <p class="mb-2">Page under construction. In the meantime, please see this <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://barrypeavy-com.ibrave.host/wp-content/uploads/2022/12/peavy-portfolio-xsmall.pdf" target="_blank">PDF Portfolio File<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
       </div> <!-- bg-white -->
     </div> <!-- w-full -->
   </div> <!-- flex -->
