@@ -11,7 +11,7 @@ permalink: experience
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg mb-5">{{page.title}}</h1>
       <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-12">
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">APR 2023 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
@@ -20,7 +20,7 @@ permalink: experience
           <p>Responsible for web design, front-end coding (Bootstrap), testing, and maintaining the public-facing website, as well as the logged in client portal. Also perform email design/code and marketing graphics.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.flexjobs.com/tour" target="_blank">FlexJobs</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i> | <a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.bold.com/" target="_blank">BOLD</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.flexjobs.com/tour" target="_blank">FlexJobs</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i> | <a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.bold.com/" target="_blank">BOLD</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">JAN 2013 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
@@ -30,7 +30,7 @@ permalink: experience
           <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. FlexJobs was acquired by BOLD in early 2023.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">MAR 2007 &ndash; DEC 2007</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -48,7 +48,7 @@ permalink: experience
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www2.deloitte.com/us/en.html" target="_blank">Deloitte</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.autotrader.com/" target="_blank">AutoTrader.com</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.verisign.com/" target="_blank">VeriSign</a>, BellSouth, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://mergeworld.com/" target="_blank">Dodge Communications</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://jacksonhealthcare.com/" target="_blank">Jackson Healthcare</a>, and <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://xceleration.com/" target="_blank">Xceleration</a>. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p> 
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County School System</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County School System</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">APR 2003 &ndash; MAY 2004</p>
           <p class="text-gray-400 text-xs">Newnan, GA</p>
         </div> <!-- left -->
@@ -59,7 +59,7 @@ permalink: experience
           <p>Responsible for the CCSS Employee Intranet, as well as management of 30 individual school websites maintained by school-based technology specialists. Served as the help desk web design resource for these specialists.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.t-mobile.com/" target="_blank">Sprint - Service Management Center (SMC)</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.t-mobile.com/" target="_blank">Sprint - Service Management Center (SMC)</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">SEP 2001 &ndash; APR 2003</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
@@ -71,7 +71,7 @@ permalink: experience
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-1"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://en.wikipedia.org/wiki/NIC_Inc." target="_blank">National Information Consortium (NIC) - GeorgiaNet/GTA</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://en.wikipedia.org/wiki/NIC_Inc." target="_blank">National Information Consortium (NIC) - GeorgiaNet/GTA</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm font-normal">JUN 1999 &ndash; SEP 2001</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
