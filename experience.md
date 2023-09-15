@@ -9,14 +9,14 @@ permalink: experience
     <div class="w-full">
       <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full">
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg mb-5">{{page.title}}</h1>
-      <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-8">
+      <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-12">
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e">
           <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm">APR 2023 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
-          <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer (short-term contractor)</h2>
+          <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer <span class="text-sm">(short-term contractor)</span></h2>
           <p>Responsible for web design, front-end coding (Bootstrap), testing, and maintaining the public-facing website, as well as the logged in client portal. Also perform email design/code and marketing graphics.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
@@ -48,7 +48,7 @@ permalink: experience
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www2.deloitte.com/us/en.html" target="_blank">Deloitte</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.autotrader.com/" target="_blank">AutoTrader.com</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.verisign.com/" target="_blank">VeriSign</a>, BellSouth, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://mergeworld.com/" target="_blank">Dodge Communications</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://jacksonhealthcare.com/" target="_blank">Jackson Healthcare</a>, and <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://xceleration.com/" target="_blank">Xceleration</a>. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p> 
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County Schools</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p><a class="text-base font-semibold text-primary-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County School System</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
           <p class="text-gray-400 text-sm">APR 2003 &ndash; MAY 2004</p>
           <p class="text-gray-400 text-xs">Newnan, GA</p>
         </div> <!-- left -->
