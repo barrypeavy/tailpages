@@ -10,16 +10,13 @@ permalink: portfolio
       <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full">
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg mb-5">{{page.title}}</h1>
         <p class="mb-2">Page under construction. In the meantime, please see this <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="{{site.baseurl}}/assets/files/peavy-portfolio-xsmall-edited.pdf" target="_blank">PDF Portfolio File<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-        <p class="mb-2">And here's a <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="{{site.baseurl}}/assets/files/Barry-Peavy-resume-24.pdf" target="_blank">PDF Resume File<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
+        <p class="mb-5">And here's a <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="{{site.baseurl}}/assets/files/Barry-Peavy-resume-24.pdf" target="_blank">PDF Resume File<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
       <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-12">
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e">
-          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">APR 2023 &ndash; Present</p>
-          <p class="text-gray-400 text-xs">Remote</p>
+          <p class="mb-0.5">Text Here</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
-          <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer <span class="text-sm">(short-term contractor)</span></h2>
-          <p>Responsible for web design, front-end coding (Bootstrap), testing, and maintaining the public-facing website, as well as the logged in client portal. Also perform email design/code and marketing graphics.</p>  
+          <p>Portfolio example here</p>  
         </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
