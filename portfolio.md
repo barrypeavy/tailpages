@@ -29,7 +29,7 @@ permalink: portfolio
           <p class="font-semibold mb-0.5" id="pf-web-design">FlexJobs Tour Page Design</p>
           <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">https://www.flexjobs.com/tour<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true">  
+          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-fj-tour.png" alt="code sample" aria-hidden="true">  
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Financial Home Page Design</p>
           <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com/" target="_blank">https://truchoicefinancial.com/<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
