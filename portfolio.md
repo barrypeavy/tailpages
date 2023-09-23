@@ -17,32 +17,8 @@ permalink: portfolio
           <p class="mb-0.5">FlexJobs Tour</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
-          <pre>
-            <code>
-              <div class="row bg-light p-3 p-lg-5">
-                <div class="col-12 vetted-text">
-                  <h2 class="h3 text-center">Fully Vetted Companies and Jobs</h2>
-                  <p class="lead mb-3 mb-sm-5 text-center">We hand-screen and research every company on our site so we can guarantee no scams or ads and provide you with the best information to make it easier for you to find a great employer!</p>
-                </div> <!-- col -->
-                <div class="col-sm-4 text-center vetted-image mb-3 mb-sm-0">
-                  <img src="/images/tour/img-vetted-left.png" alt="vetted companies graphic" class="img-fluid" aria-hidden="true">
-                </div> <!-- col left -->
-                <div class="col-sm-6 offset-sm-1 researched-text">
-                  <h3>Researched & Written by the FlexJobs Team</h3>
-                  <p>Unique company descriptions include:</p>
-                  <ul class="ps-3 ps-lg-5">
-                    <li>The company's <span class="fw-bold">commitment level to remote work</span></li>
-                    <li>What type of <span class="fw-bold">work flexibility</span> a company offers</li>
-                    <li>Company <span class="fw-bold">awards and accolades</span></li>
-                    <li><span class="fw-bold">Success stories</span> and related articles</li>
-                    <li>Current <span class="fw-bold">job listings</span> (and past jobs too, so you can see the roles for which they have previously hired)</li>
-                  </ul>
-                  <h3 class="mt-3">Follow Your Favorite Companies</h3>
-                  <p class="m-0">Be notified when companies you love have <span class="fw-bold">new job opportunities</span>.</p>
-                </div> <!-- col right -->
-              </div> <!-- row -->
-            </code>
-          </pre>  
+          <p>Portfolio example here</p>
+          <img class="object-cover mx-auto" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true">  
         </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
