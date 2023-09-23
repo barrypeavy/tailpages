@@ -4,7 +4,7 @@ title: Portfolio
 permalink: portfolio
 ---
 
-<div class="container w-full md:max-w-4xl mx-auto">
+<div class="container w-full md:max-w-8xl mx-auto">
   <div class="flex flex-wrap text-sm">
     <div class="w-full">
       <div class="bg-white border shadow-md p-3 md:py-5 md:px-10 h-full">
