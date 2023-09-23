@@ -24,7 +24,7 @@ permalink: portfolio
           <p class="mb-0.5">Front-end markup (HTML/CSS - custom framework). Executed in Visual Studio.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com/" target="_blank">https://truchoicefinancial.com/<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/code-tcf-home.png" alt="code sample" aria-hidden="true"> 
-          <p class="text-xs text-right mb-0.5"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
+          <p class="text-xs text-right mb-0.5"><a class="text-amber-500 hover:text-amber-600" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
         </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->

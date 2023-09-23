@@ -27,7 +27,7 @@ permalink: experience
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
           <h2 class="text-base md:text-lg font-semibold">Web Designer | Front-End Developer</h2>
           <p class="mb-2">For 10 years with FlexJobs, I have performed web design (Adobe CS, Figma, Sketch) and extensive front-end markup (HTML, CSS, Bootstrap) for the entire website, in an Agile dev environment (using Visual Studio, Jira, Rails, Github, Slack).</p>
-          <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. FlexJobs was acquired by BOLD in early 2023.</p>  
+          <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. <span class="italic">FlexJobs was acquired by BOLD in early 2023</span>.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
