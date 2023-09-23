@@ -17,8 +17,13 @@ permalink: portfolio
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
           <p class="font-semibold mb-0.5" id="pf-develpment">FlexJobs Tour Page</p>
-          <p class="mb-2">Front-end Bootstrap markup (HTML/CSS). Executed in Visual Studio.</p>
-          <img class="object-cover mx-auto" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true">  
+          <p class="mb-0.5">Front-end Bootstrap markup (HTML/CSS). Executed in Visual Studio.</p>
+          <p class="mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="asdf" target="_blank">https://www.flexjobs.com/tour</a></p>
+          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true">  
+          <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Financial Home Page</p>
+          <p class="mb-0.5">Front-end markup (HTML/CSS - custom framework). Executed in Visual Studio.</p>
+          <p class="mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="asdf" target="_blank">https://truchoicefinancial.com/</a></p>
+          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/code-tcf-home.png" alt="code sample" aria-hidden="true"> 
         </div> <!-- right -->
       </div> <!-- grid -->
       </div> <!-- bg-white -->
