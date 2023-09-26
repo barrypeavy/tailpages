@@ -14,8 +14,8 @@ permalink: portfolio
       <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-12">
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e">
           <p class="font-semibold mb-3"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#pf-development">Front-End Development</a></p>
-          <p class="font-semibold mb-3"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#pf-web-design">Web Design</a></p>
-          <p class="font-semibold mb-3"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#pf-figma-mocks">Figma Hi-Fi Mockups</a></p>
+          <p class="font-semibold mb-3"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#pf-web-design">Web UI Design</a></p>
+          <p class="font-semibold mb-3"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="#pf-figma-mocks">Figma Hi-Fi UI Mockups</a></p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
           <p class="font-semibold mb-0.5" id="pf-develpment">FlexJobs Tour Page Markup</p>
