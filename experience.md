@@ -12,7 +12,7 @@ permalink: experience
       <div class="grid grid-cols-12 gap-x-4 gap-y-2 md:gap-y-12">
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://truchoicefinancial.com" target="_blank">TruChoice Financial</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">APR 2023 &ndash; Present</p>
+          <p class="text-gray-400 text-sm font-medium">APR 2023 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -21,7 +21,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.flexjobs.com/tour" target="_blank">FlexJobs</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i> | <a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.bold.com/" target="_blank">BOLD</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">JAN 2013 &ndash; Present</p>
+          <p class="text-gray-400 text-sm font-medium">JAN 2013 &ndash; Present</p>
           <p class="text-gray-400 text-xs">Remote</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -31,7 +31,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">MAR 2007 &ndash; DEC 2007</p>
+          <p class="text-gray-400 text-sm font-medium">MAR 2007 &ndash; DEC 2007</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -40,7 +40,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="text-base font-semibold text-primary-500">Self-Employed</p>
-          <p class="text-gray-400 text-sm font-normal">JUN 2004 &ndash; DEC 2012</p>
+          <p class="text-gray-400 text-sm font-medium">JUN 2004 &ndash; DEC 2012</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->        
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -49,7 +49,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County School System</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">APR 2003 &ndash; MAY 2004</p>
+          <p class="text-gray-400 text-sm font-medium">APR 2003 &ndash; MAY 2004</p>
           <p class="text-gray-400 text-xs">Newnan, GA</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -60,7 +60,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.t-mobile.com/" target="_blank">Sprint - Service Management Center (SMC)</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">SEP 2001 &ndash; APR 2003</p>
+          <p class="text-gray-400 text-sm font-medium">SEP 2001 &ndash; APR 2003</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
@@ -72,7 +72,7 @@ permalink: experience
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://en.wikipedia.org/wiki/NIC_Inc." target="_blank">National Information Consortium (NIC) - GeorgiaNet/GTA</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-normal">JUN 1999 &ndash; SEP 2001</p>
+          <p class="text-gray-400 text-sm font-medium">JUN 1999 &ndash; SEP 2001</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
