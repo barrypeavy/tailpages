@@ -11,7 +11,7 @@ permalink: /
       <!-- <img class="object-cover mx-auto h-36 w-36 rounded-full" src="{{site.baseurl}}/assets/img/{{site.author-image}}" alt="author profile image"> -->
       <h1 class="uppercase text-center font-semibold text-gray-500 text-lg">{{site.author}}</h1>
         {% if site.author-bio %}
-        <p class="text-gray-500 mb-4 text-center">{{site.author-bio}}</p>
+        <p class="text-gray-500 mb-4 text-center font-medium">{{site.author-bio}}</p>
         {% endif %}
         <p class="mb-2">I am a hybrid web UI/graphic designer and front-end developer with 15+ years remote experience, well-versed in both creative side work in Adobe Creative Suite and the like — and more technical work in HTML/CSS and frameworks such as Bootstrap and Tailwind.</p>
         <p class="mb-2">Outside of work, my hobbies and interests include playing guitar and banjo, singing, background/commercial acting, nationwide hiking/camping/overlanding, golf, fitness, and DIY projects. I also travel frequently to Texas to spend time with my daughter, and the Georgia coast to visit extended family.</p>
