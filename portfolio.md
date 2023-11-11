@@ -39,19 +39,19 @@ permalink: portfolio
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-tcf-home.png" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Specialized Home Page Design</p>
           <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-truchoicespecialized.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com/" target="_blank">https://www.truchoicespecialized.com/<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
+          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-truchoicespecialized.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy">
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Retirement Roadblocks Home Page Design</p>
-          <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
+          <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-myretirementroadblocks.png" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Wills Seminar Page Design</p>
-          <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
+          <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-wills.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Agent Page Design</p>
-          <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
+          <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-cantrell.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="font-semibold mb-0.5" id="pf-develpment">TruChoice Agent Page Design</p>
-          <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
+          <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-ruhle.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
           <p class="text-xs text-right mb-0.5"><a class="font-semibold text-amber-500 hover:text-amber-600" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
           <h2 class="uppercase font-semibold text-gray-500 text-lg mb-5">Figma Hi-Fi UI Mockups</h2>
