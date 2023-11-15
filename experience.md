@@ -30,15 +30,6 @@ permalink: experience
           <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. <span class="italic">FlexJobs was acquired by BOLD in early 2023</span>.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
-          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
-          <p class="text-gray-400 text-sm font-medium">MAR 2007 &ndash; DEC 2007</p>
-          <p class="text-gray-400 text-xs">Atlanta, GA</p>
-        </div> <!-- left -->
-        <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
-          <h2 class="text-base md:text-lg font-semibold">Interactive Web UI Designer</h2>
-          <p>Took design comps, wireframes, charter documents, and UI layouts and translated into website builds, using semantic HTML and CSS. Performed graphic design work and web page/application design, as well as extensive cross-browser testing. Participated in site planning and estimate meetings and interacted with various teams.</p>  
-        </div> <!-- right -->
-        <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="text-base font-semibold text-primary-500">Self-Employed</p>
           <p class="text-gray-400 text-sm font-medium">JUN 2004 &ndash; DEC 2012</p>
           <p class="text-gray-400 text-xs">Atlanta, GA</p>
@@ -46,6 +37,15 @@ permalink: experience
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
           <h2 class="text-base md:text-lg font-semibold">Web UI Designer | Front-End Developer</h2>
           <p>CSS / HTML / Bootstrap / Wordpress Designer / Developer / Graphic Designer for various clients — including <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www2.deloitte.com/us/en.html" target="_blank">Deloitte</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.autotrader.com/" target="_blank">AutoTrader.com</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.verisign.com/" target="_blank">VeriSign</a>, BellSouth, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://mergeworld.com/" target="_blank">Dodge Communications</a>, <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://jacksonhealthcare.com/" target="_blank">Jackson Healthcare</a>, and <a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://xceleration.com/" target="_blank">Xceleration</a>. These contracts were worked via several IT placement firms — The Creative Group, Matrix Resources, etc.</p> 
+        </div> <!-- right -->
+        <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
+          <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://definition6.com/" target="_blank">Definition6</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
+          <p class="text-gray-400 text-sm font-medium">MAR 2007 &ndash; DEC 2007</p>
+          <p class="text-gray-400 text-xs">Atlanta, GA</p>
+        </div> <!-- left -->
+        <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
+          <h2 class="text-base md:text-lg font-semibold">Interactive Web UI Designer</h2>
+          <p>Took design comps, wireframes, charter documents, and UI layouts and translated into website builds, using semantic HTML and CSS. Performed graphic design work and web page/application design, as well as extensive cross-browser testing. Participated in site planning and estimate meetings and interacted with various teams.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="mb-0.5"><a class="text-base font-semibold text-amber-600 hover:text-amber-700 underline decoration-amber-200 underline-offset-2 leading-tight" href="https://www.cowetaschools.net/en-US" target="_blank">Coweta County School System</a><i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></p>
