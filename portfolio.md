@@ -23,11 +23,9 @@ permalink: portfolio
           <p class="font-semibold mb-0.5">FlexJobs Tour Page Markup</p>
           <p class="mb-0.5">Front-end Bootstrap markup (HTML/CSS). Executed in Visual Studio.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">https://www.flexjobs.com/tour<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-<div class="flex items-center justify-center p-3 bg-pattern-bp">
-  <div class="mx-auto">
-    <div class="max-w-xs cursor-pointer rounded-lg bg-white p-2 shadow duration-150 hover:scale-105 hover:shadow-md">
-      <img class="w-11/12 object-cover object-center" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true" loading="lazy" />
-    </div>
+<div class="flex items-center justify-center p-3 rounded bg-pattern-bp">
+  <div class="w-11/12 mx-auto">
+      <img class="object-cover object-center" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true" loading="lazy" />
   </div>
 </div>          
           <!-- <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true" loading="lazy"> -->
