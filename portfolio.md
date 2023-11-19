@@ -24,7 +24,7 @@ permalink: portfolio
           <p class="mb-0.5">Front-end Bootstrap markup (HTML/CSS). Executed in Visual Studio.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">https://www.flexjobs.com/tour<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
 <div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
-  <div class="w-11/12 mx-auto">
+  <div class="mx-auto">
       <img class="object-cover object-center" src="{{site.baseurl}}/assets/img/code-fj-tour.png" alt="code sample" aria-hidden="true" loading="lazy" />
   </div>
 </div>          
