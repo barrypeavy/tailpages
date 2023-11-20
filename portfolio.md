@@ -66,34 +66,66 @@ permalink: portfolio
           <p class="font-semibold mb-0.5">TruChoice Specialized Home Page Design</p>
           <p class="mb-0.5">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://truchoicefinancial.com/" target="_blank">https://www.truchoicespecialized.com/<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-          <img class="object-cover mx-auto mb-6 shadow-md" src="{{site.baseurl}}/assets/img/ss-truchoicespecialized.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy">
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-truchoicespecialized.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="font-semibold mb-0.5">TruChoice Retirement Roadblocks Home Page Design</p>
           <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-myretirementroadblocks.png" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-myretirementroadblocks.png" alt="home page screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="font-semibold mb-0.5">TruChoice Wills Seminar Page Design</p>
           <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-wills.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-wills.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="font-semibold mb-0.5">TruChoice Agent Page Design</p>
           <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-cantrell.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-cantrell.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="font-semibold mb-0.5">TruChoice Agent Page Design</p>
           <p class="mb-2">Web design executed using a combination of Figma, Photoshop, and Illustrator.</p>
-          <img class="object-cover mx-auto mb-6" src="{{site.baseurl}}/assets/img/ss-ruhle.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy"> 
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-ruhle.jpg" alt="home page screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="text-xs text-right mb-0.5"><a class="font-semibold text-amber-500 hover:text-amber-600" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
           <h2 class="uppercase font-semibold text-gray-500 text-lg mb-5" id="pf-figma-mocks">Figma Hi-Fi UI Mockups</h2>
           <p class="font-semibold mb-0.5">FlexJobs Tour Page Mockup</p>
           <p class="mb-0.5">Web design executed using Figma.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/tour" target="_blank">https://www.flexjobs.com/tour<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-          <img class="object-cover mx-auto mb-6 shadow-md" src="{{site.baseurl}}/assets/img/ss-fj-tour-figma.png" alt="Figma file screenshot" aria-hidden="true" loading="lazy">
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-fj-tour-figma.png" alt="Figma file screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="font-semibold mb-0.5">FlexJobs Home Page Mockup</p>
           <p class="mb-0.5">Web design executed using Figma.</p>
           <p class="text-xs mb-2"><a class="text-amber-500 hover:text-amber-600 underline decoration-amber-200 underline-offset-2" href="https://www.flexjobs.com/" target="_blank">https://www.flexjobs.com/<i class="fa-solid fa-up-right-from-square fa-sm text-gray-400 ms-1"></i></a></p>
-          <img class="object-cover mx-auto mb-6 shadow-md" src="{{site.baseurl}}/assets/img/ss-fj-home-figma.png" alt="Figma file screenshot" aria-hidden="true" loading="lazy">
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/ss-fj-home-figma.png" alt="Figma file screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="text-xs text-right mb-0.5"><a class="font-semibold text-amber-500 hover:text-amber-600" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
           <h2 class="uppercase font-semibold text-gray-500 text-lg mb-5" id="pf-print-graphics">Whitepapers, Infographics, etc.</h2>
           <p class="mb-2">Print materials, infographic, etc. designed using various combinations of InDesign, Illustrator, and Photoshop.</p>
-          <img class="object-cover mx-auto mb-6 shadow-md" src="{{site.baseurl}}/assets/img/print-tc-01.png" alt="print file screenshot" aria-hidden="true" loading="lazy">
-          <img class="object-cover mx-auto mb-6 shadow-md" src="{{site.baseurl}}/assets/img/print-tc-02.png" alt="print file screenshot" aria-hidden="true" loading="lazy">
+<div class="flex items-center justify-center p-6 mb-6 rounded bg-pattern-bp shadow-inner">
+  <div class="mx-auto">
+      <img class="object-cover object-center shadow-md" src="{{site.baseurl}}/assets/img/print-tc-01.png" alt="print file screenshot" aria-hidden="true" loading="lazy" />
+      <img class="object-cover object-center shadow-md mt-4" src="{{site.baseurl}}/assets/img/print-tc-02.png" alt="print file screenshot" aria-hidden="true" loading="lazy" />
+  </div>
+</div>
           <p class="text-xs text-right mb-2"><a class="font-semibold text-amber-500 hover:text-amber-600" href="#top">TOP<i class="fa-solid fa-arrow-turn-up fa-sm ms-1"></i></a></p>
         </div> <!-- right -->
       </div> <!-- grid -->
