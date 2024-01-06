@@ -74,7 +74,7 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-13">
           <h2 class="text-base md:text-lg font-semibold">Program Manager II - Intranet Webmaster</h2>
-          <p class="mb-2">Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involved organizing thousands of documents used by employees across the Sprint International network.</p>
+          <p class="mb-2">Responsible for designing, developing, maintaining, and content management for numerous corporate intranet sites. Content management involved organizing thousands of documents used by employees across the Sprint International (now T-Mobile) network.</p>
           <p class="mb-2">Executed creative design and both front-end and back-end development of web sites and web applications from concept to completion.</p>
           <p class="mb-2">Developed database-driven web applications, and built basic relational databases. Managed database connectivity to fuse front and back-end portions of web applications.</p>
           <p>Executed the cut-up/slice and HTML build of sites, and performed basic Windows NT Server, Internet Information Server (IIS) and ColdFusion Server duties.</p>  
