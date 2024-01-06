@@ -35,8 +35,8 @@ permalink: experience
         </div> <!-- left -->
         <div class="col-start-1 col-end-12 md:col-start-4 md:col-end-12">
           <h2 class="text-base md:text-lg font-semibold">Web UI Designer | Front-End Developer</h2>
-          <p class="mb-2">For 10 years with FlexJobs, I have performed web UI/product design (Adobe CS, Figma, Sketch) and extensive front-end markup (HTML, CSS, Bootstrap) for the entire website, in an Agile dev environment (using Visual Studio, Jira, Rails, Github, Slack).</p>
-          <p>In this role I work closely with everyone from the CEO, to Project and Product managers, Dev Directors, and Back-End Engineers.  I also perform device testing for responsiveness. <span class="italic">FlexJobs was acquired by BOLD in early 2023, and phased out our development team December 31, 2023 (BOLD uses offshore developers exclusivey)</span>.</p>  
+          <p class="mb-2">For 10 years with FlexJobs, I performed web UI/product design (Adobe CS, Figma, Sketch) and extensive front-end markup (HTML, CSS, Bootstrap) for the entire website, in an Agile dev environment (using Visual Studio, Jira, Rails, Github, Slack).</p>
+          <p>Worked closely with everyone from the CEO, to Project/Product managers, Dev Directors, and Back-End Engineers. Perform device testing for responsiveness. <span class="italic">FlexJobs was acquired by BOLD in early 2023, and phased out our development team December 31, 2023 (BOLD uses offshore developers exclusivey)</span>.</p>  
         </div> <!-- right -->
         <div class="col-start-1 col-end-12 md:col-start-1 md:col-end-4 md:border-e mt-5 md:mt-0">
           <p class="text-base font-semibold text-primary-500">Self-Employed</p>
